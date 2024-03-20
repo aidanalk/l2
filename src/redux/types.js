@@ -1,0 +1,9 @@
+export const types = {
+    NUMBER: 'NUMBER',
+    NUMBER2: 'NUMBER2',
+    OPERATION: 'OPERATION',
+    ADD: 'ADD',
+    SUBTRACT: 'SUBTRACT',
+    MULTIPLY: 'MULTIPLY',
+    DIVIDE: 'DIVIDE'
+}
